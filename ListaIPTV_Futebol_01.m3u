@@ -1,0 +1,51 @@
+#EXTM3U
+
+###########################################################################################
+######################################## INFORMACOES ######################################
+###########################################################################################
+
+#PLAYLISTV: pltv-logo="https://github.com/sergianni/listaIPTV/blob/master/futebol_01.png" pltv-name="Futebol" pltv-description="Lista de Futebol" pltv-cover="https://github.com/sergianni/listaIPTV/blob/master/futebol_01.png"
+
+#EXTINF:-1 group-title="Atualizada 02.01.2019 ", Lista Atualizada
+
+
+###########################################################################################
+######################################## FUTEBOL ##########################################
+###########################################################################################
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
+https://apk25.futeboltvgratis.com/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
+https://apk25.futeboltvgratis.com/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
+https://apk25.futeboltvgratis.com/live/7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
+https://apk25.futeboltvgratis.com/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
+https://apk25.futeboltvgratis.com/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
+https://apk25.futeboltvgratis.com/live/19/playlist.m3u8
+
+
+
+###########################################################################################
+################################### JOGOS DE HOJE #########################################
+###########################################################################################
+
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Jogos de Hoje", 18h - NEWCASTLE X MANCHESTER UNITED
+https://apk25.futeboltvgratis.com/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Jogos de Hoje", 18:15h - PORTIMORENSE X BENFICA
+https://apk25.futeboltvgratis.com/live/13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Jogos de Hoje", 19:15h - COPA SP - VILA NOVA/GO X PORTO/PE
+https://apk25.futeboltvgratis.com/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Jogos de Hoje", 21:30h - COPA SP - CORINTHIANS X RICANATO/TO
+https://apk25.futeboltvgratis.com/live/20/playlist.m3u8
